@@ -1,7 +1,7 @@
 # PROJECT2_FYS-STK4155
 ## Classification and Regression
 ### Repository for second project in FYS-STK4155: Applied data analysis and machine learning.
-#### Authors: Marius Helvig Havgar & Åsmund Danielsen Kvitvang
+#### Authors: Teah Kaasa McLean, Marius Helvig Havgar & Åsmund Danielsen Kvitvang
 In this paper we compare and contrast the basic machine learning methods;linear 
 regression, logistic regression and the multilayer perceptron model (MLP).We 
 look at two data sets, the Franke function onxandyin range 0 to 1 with and 
